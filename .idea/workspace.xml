@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8bce861-ef70-4306-86d9-9fa2974e5e73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/modifying-list-elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/removing-list-elements.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,7 @@
     "Python.list-methods.executor": "Run",
     "Python.list-multiple-data-types.executor": "Run",
     "Python.modifying-list-elements.executor": "Run",
+    "Python.removing-list-elements.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
