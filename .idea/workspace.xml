@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8bce861-ef70-4306-86d9-9fa2974e5e73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/operations-on-lists.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +61,7 @@
     "Python.list-of-lists.executor": "Run",
     "Python.modifying-2-d-lists.executor": "Run",
     "Python.modifying-list-elements.executor": "Run",
+    "Python.operations-on-lists.executor": "Run",
     "Python.removing-list-elements.executor": "Run",
     "Python.review.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
