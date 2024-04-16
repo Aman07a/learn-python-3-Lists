@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8bce861-ef70-4306-86d9-9fa2974e5e73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/consecutive-lists-range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/the-power-of-range.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,7 @@
     "Python.accessing-list-elements.executor": "Run",
     "Python.adding-by-index-insert.executor": "Run",
     "Python.append-list.executor": "Run",
+    "Python.consecutive-lists-range.executor": "Run",
     "Python.empty-list.executor": "Run",
     "Python.growing-a-list-plus.executor": "Run",
     "Python.intro-list.executor": "Run",
