@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8bce861-ef70-4306-86d9-9fa2974e5e73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/operations-on-lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adding-by-index-insert.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
     "Python.accessing-2-d-lists.executor": "Run",
     "Python.accessing-list-elements-negative-index.executor": "Run",
     "Python.accessing-list-elements.executor": "Run",
+    "Python.adding-by-index-insert.executor": "Run",
     "Python.append-list.executor": "Run",
     "Python.empty-list.executor": "Run",
     "Python.growing-a-list-plus.executor": "Run",
